@@ -1,5 +1,4 @@
-system:
-  session_manager: "destro_free"
+
 
 ruby_version: 'ruby-2.1.2'
 
